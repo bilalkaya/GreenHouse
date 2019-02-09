@@ -171,7 +171,7 @@ nav {
 }
 
 .banner {
-    margin-top: 150px;
+    margin-top: 20vh;
     padding: 5px;
 }
 
@@ -340,7 +340,6 @@ footer p {
     .banner {
         display: flex;
         justify-content: center;
-        margin-top: 250px;
         padding: 20px;
     }
     /* Make banner bigger */
